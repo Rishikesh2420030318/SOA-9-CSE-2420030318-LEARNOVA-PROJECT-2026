@@ -1,0 +1,4 @@
+model,mae,rmse,r2
+Linear Regression,TBD,TBD,TBD
+Random Forest Regressor,TBD,TBD,TBD
+Gradient Boosting Regressor,TBD,TBD,TBD
