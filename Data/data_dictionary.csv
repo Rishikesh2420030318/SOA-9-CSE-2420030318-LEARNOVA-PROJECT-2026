@@ -1,0 +1,11 @@
+field,type,description,source_table
+learner_id,string,Anonymous learner identifier,profiles/activity/assessments
+topic,string,Learning topic,activity/assessment/resource
+difficulty,integer,Difficulty from 1 to 5,activity/assessment/resource
+score,float,Assessment score percentage,assessments
+quiz_score,float,Quiz score percentage,activity
+completion_rate,float,Percentage completed,activity
+time_spent_min,float,Minutes spent,activity
+attempts,integer,Number of attempts,activity
+hint_used,integer,"1 if hint used, else 0",activity
+passed,integer,"1 if passed, else 0",assessments

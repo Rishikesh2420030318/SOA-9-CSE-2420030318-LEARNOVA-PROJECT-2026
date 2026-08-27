@@ -1,0 +1,11 @@
+learner_id,age_group,education_level,preferred_learning_style,goal,baseline_score,registration_date
+L001,18-22,Undergraduate,video,Improve programming,72,2026-01-10
+L002,18-22,Undergraduate,practice,Master mathematics,61,2026-01-12
+L003,23-30,Postgraduate,article,Prepare for exams,84,2026-01-15
+L004,18-22,Undergraduate,quiz,Improve programming,55,2026-01-20
+L005,18-22,Undergraduate,video,Learn data science,91,2026-02-01
+L006,23-30,Postgraduate,practice,Improve mathematics,68,2026-02-04
+L007,18-22,Undergraduate,video,Learn databases,77,2026-02-10
+L008,31-40,Professional,article,Career upskilling,73,2026-02-15
+L009,18-22,Undergraduate,practice,Learn AI,63,2026-02-20
+L010,18-22,Undergraduate,video,Improve databases,88,2026-03-01

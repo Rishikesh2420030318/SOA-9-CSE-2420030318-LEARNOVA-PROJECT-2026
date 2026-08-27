@@ -1,0 +1,14 @@
+assessment_id,learner_id,topic,score,difficulty,time_taken_min,attempt_number,passed,assessment_date
+AS001,L001,Python,78,3,18,1,1,2026-03-03
+AS002,L001,SQL,84,2,15,1,1,2026-03-05
+AS003,L002,Algebra,54,4,26,2,0,2026-03-04
+AS004,L002,Statistics,71,2,17,1,1,2026-03-06
+AS005,L003,Machine Learning,88,4,29,1,1,2026-03-04
+AS006,L003,Python,91,3,20,1,1,2026-03-06
+AS007,L004,Python,49,3,25,3,0,2026-03-05
+AS008,L005,Machine Learning,93,3,21,1,1,2026-03-08
+AS009,L006,Calculus,65,4,38,2,0,2026-03-08
+AS010,L007,SQL,81,3,20,1,1,2026-03-09
+AS011,L008,SQL,72,3,28,2,1,2026-03-12
+AS012,L009,Neural Networks,57,4,34,2,0,2026-03-11
+AS013,L010,SQL,94,3,17,1,1,2026-03-12
